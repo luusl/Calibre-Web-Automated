@@ -1,4 +1,4 @@
-name: Build & Push - Release - Split Strategy
+name: Build & Push - Release - Split Strategy ARMv7
 # Automatically builds/pushes multi-platform release images when a GitHub Release is published
 
 on:
